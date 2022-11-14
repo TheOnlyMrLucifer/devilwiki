@@ -7,7 +7,7 @@ echo "
 ███████╗██╔╝╚██╗░░░██║░░░██║░░██║███████╗██║░╚═╝░██║██║██████╔╝
 ╚══════╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚═╝░░░░░╚═╝╚═╝╚═════╝░
 hey master
-DevilUserBot in your service.........
+BarbieGroupManagementBot in your service.........
 "
 
 python -m userbot
